@@ -44,6 +44,7 @@ npm install -g json-server
 Inicie o servidor de dados
 json-server --watch src/data/artists.json --port 3000
 
+---
 
 ## 🎨 Componentes Principais
 **Sidebar**
@@ -71,6 +72,8 @@ json-server --watch src/data/artists.json --port 3000
 
 - Efeito de gradiente animado
 
+---
+
 ## 📱 Responsividade
 O layout se adapta a diferentes tamanhos de tela:
 
@@ -79,6 +82,8 @@ O layout se adapta a diferentes tamanhos de tela:
 - Tablet (768px): 2 colunas
 
 - Mobile (< 480px): 1 coluna
+
+---
 
 ## 💡 Melhorias Futuras
 - Implementar reprodução real de áudio
@@ -90,6 +95,8 @@ O layout se adapta a diferentes tamanhos de tela:
 - Integrar com API oficial do Spotify
 
 - Adicionar modo escuro/diurno
+
+---
 
 ## 📄 Nota
 Projeto desenvolvido para fins educacionais. Não afiliado ao Spotify AB.
